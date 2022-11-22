@@ -1,0 +1,30 @@
+body{
+    background-image: url("ktm.jpg");
+    background-repeat: no-repeat;
+}
+#para1{
+    color: black;
+    font-style: italic;
+    text-align: center; 
+ 
+}
+#spl{
+    border: 2px solid red;  
+    padding: 1px;
+    color: orange;
+    font-size: 30px;
+    font-style: Fantasy;
+}
+#great:hover{
+    background-color: red;
+}
+#love{
+    background-color: ;
+    width:100px;
+   
+}
+#reg{
+    background-color: white;
+    font-style: unset;
+    width: 400px;
+}
